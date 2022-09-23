@@ -23,10 +23,10 @@ public class AddTest {
 		assertEquals(3,tjb.add(1, 2));
 	}
 	
-	@Test
+	/*@Test
 	public void test2() {
 		throw new RuntimeException("error");
-	}
+	}*/
 	
 	@Test
 	public void test3() {
